@@ -54,7 +54,7 @@ body{
 }
 .controls{
   padding: 18px 25px;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 2px solid #be0f0f8f;
 }
 .filters span{
   margin: 0 8px;
